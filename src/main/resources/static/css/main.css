@@ -1,0 +1,47 @@
+.priority-MINOR {
+    background-color: #fff5c0;
+}
+
+.priority-NORMAL {
+    background-color: #ffb396;
+}
+
+.priority-MAJOR {
+    background-color: #ff8585;
+}
+
+.priority-CRITICAL {
+    background-color: #ff4646;
+}
+
+.state-TODO {
+    background-color: #ec5858;
+}
+
+.state-IN_PROGRESS {
+    background-color: #fd8c04;
+}
+
+.state-FIXED {
+    background-color: #edf285;
+}
+
+.state-CLOSED {
+    background-color: #93abd3;
+}
+
+.type-BUG {
+    background-color: #cd5d7d;
+}
+
+.type-TASK {
+    background-color: #f6ecf0;
+}
+
+.type-PERFORMANCE_PROBLEM {
+    background-color: #a7c5eb;
+}
+
+.type-USABILITY_PROBLEM {
+    background-color: #949cdf;
+}
